@@ -25,6 +25,7 @@ This project was developed to offer a simple and cost-effective way to determine
 
 ## Screenshots
 - **Circuit Diagram**
+- (https://github.com/JanaK003/Meat-Freshness-Detection-System/blob/main/Circuit.jpg)
 - **LCD Display Output**
 
 ---
