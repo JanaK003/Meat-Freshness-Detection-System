@@ -22,11 +22,46 @@ This project was developed to offer a simple and cost-effective way to determine
 - **Air Quality Monitoring**: Includes an air quality sensor that monitors and displays air quality.
 
 ---
+## Connections
+- ### 1. TCS34725 Color Sensor to Arduino:
+| **TCS34725 Pin** | **Arduino Pin** |
+|------------------|-----------------|
+| VIN              | 5V              |
+| GND              | GND             |
+| SDA              | A4 (SDA)        |
+| SCL              | A5 (SCL)        |
+
+### 2. LCD Display to Arduino:
+| **LCD Pin** | **Arduino Pin** |
+|-------------|-----------------|
+| VCC         | 5V              |
+| GND         | GND             |
+| SDA         | A4 (SDA)        |
+| SCL         | A5 (SCL)        |
+
+### 3. Air Quality Sensor to Arduino:
+| **Air Quality Sensor Pin** | **Arduino Pin** |
+|----------------------------|-----------------|
+| VCC                        | 5V              |
+| GND                        | GND             |
+| OUT                        | A0              |
+
+### 4. Breadboard and Jumper Wires:
+- Use jumper wires to connect all components to the breadboard and Arduino for proper grounding and power distribution.
+
+
+---
 
 ## Screenshots
 - **Circuit Diagram**
-- (https://github.com/JanaK003/Meat-Freshness-Detection-System/blob/main/Circuit.jpg)
-- **LCD Display Output**
+  ![Connections](https://github.com/user-attachments/assets/110b1fe1-d726-48c6-9d17-534d644ebe10)
+
+  
+- **LCD Display Output**  
+  ![LCD output](https://github.com/user-attachments/assets/2362888e-f8fa-400d-98ec-a9ddf653ce19)
+
+
+  
 
 ---
 
